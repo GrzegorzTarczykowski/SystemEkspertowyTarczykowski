@@ -1,0 +1,2 @@
+# SystemEkspertowyTarczykowski
+Application WPF MVVM
