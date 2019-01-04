@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Basket>
+<grzyb>
+    <srednica_kapelusza>10</srednica_kapelusza>
+	<blaszki>1</blaszki>
+	<toksyny>0</toksyny>
+	<cl>Jadalny</cl>
+</grzyb>
+<grzyb>
+    <srednica_kapelusza>5</srednica_kapelusza>
+	<blaszki>1</blaszki>
+	<toksyny>0</toksyny>
+	<cl>Jadalny</cl>
+</grzyb>
+<grzyb>
+    <srednica_kapelusza>25</srednica_kapelusza>
+	<blaszki>0</blaszki>
+	<toksyny>0</toksyny>
+	<cl>Jadalny</cl>
+</grzyb>
+<grzyb>
+    <srednica_kapelusza>10</srednica_kapelusza>
+	<blaszki>0</blaszki>
+	<toksyny>1</toksyny>
+	<cl>Niejadalny</cl>
+</grzyb>
+<grzyb>
+    <srednica_kapelusza>30</srednica_kapelusza>
+	<blaszki>1</blaszki>
+	<toksyny>0</toksyny>
+	<cl>Jadalny</cl>
+</grzyb>
+<grzyb>
+    <srednica_kapelusza>3</srednica_kapelusza>
+	<blaszki>1</blaszki>
+	<toksyny>0</toksyny>
+	<cl>Jadalny</cl>
+</grzyb>
+<grzyb>
+	<srednica_kapelusza>7</srednica_kapelusza>
+	<blaszki>1</blaszki>
+	<toksyny>0</toksyny>
+	<cl>Jadalny</cl>
+</grzyb>
+</Basket>
